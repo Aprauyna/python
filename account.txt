@@ -1,0 +1,3 @@
+1001,John Smith,1000.00
+1002,Jenny Smith,2000.00
+1003,Bob Smith,500.00
